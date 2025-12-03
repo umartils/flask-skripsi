@@ -1,0 +1,65 @@
+[
+  {
+    "id": "grape_description",
+    "title": "Deskripsi Tanaman Anggur (Vitis vinifera)",
+    "category": "General",
+    "region": "Indonesia",
+    "content": "Anggur (Vitis vinifera) adalah tanaman merambat berkayu dari famili Vitaceae yang tumbuh optimal di daerah beriklim kering–tropis. Tumbuhan ini memiliki habitus berupa sulur (tendril) untuk merambat, daun berbentuk menjari, dan menghasilkan buah berry dalam bentuk dompol. Di Indonesia, anggur dapat dibudidayakan di dataran rendah hingga menengah dengan sinar matahari penuh. Buahnya dapat dimakan segar atau diolah menjadi kismis, jus, jelly, hingga wine."
+  },
+  {
+    "id": "grape_benefits",
+    "title": "Manfaat Buah Anggur",
+    "category": "General",
+    "region": "Indonesia",
+    "content": "Buah anggur kaya vitamin C, vitamin K, serat, dan polifenol seperti resveratrol. Manfaat utamanya termasuk meningkatkan kesehatan jantung, mengurangi radikal bebas, mendukung sistem imun, menurunkan peradangan, mencegah penuaan, dan menjaga kesehatan mata. Kandungan antioksidan resveratrol diketahui dapat melindungi sel dari kerusakan oksidatif."
+  },
+  {
+    "id": "grape_morphology",
+    "title": "Morfologi Tanaman Anggur",
+    "category": "General",
+    "region": "Indonesia",
+    "content": "Tanaman anggur memiliki akar serabut yang kuat dan toleran terhadap kekeringan. Batangnya berkayu dengan cabang yang fleksibel. Daunnya berbentuk menjari dengan tepi bergerigi. Tanaman mengeluarkan sulur untuk memanjat. Bunga anggur berbentuk malai kecil dan biasanya berkelamin ganda. Buahnya berbentuk buni (berry) dengan variasi warna hijau, kuning, merah, ungu, hingga hitam tergantung varietas."
+  },
+  {
+    "id": "grape_varieties_indonesia",
+    "title": "Varietas Anggur Populer di Indonesia",
+    "category": "General",
+    "region": "Indonesia",
+    "content": "Varietas anggur yang umum dibudidayakan di Indonesia meliputi: 1) Anggur Red Globe – berbuah besar, merah, manis, cocok dataran rendah; 2) Anggur Black Sapphire – bentuk lonjong, hitam pekat, sangat manis; 3) Anggur Jupiter – tanpa biji (seedless), produktivitas tinggi; 4) Anggur Ninel – varietas populer di Jawa Timur; 5) Anggur Akademik Avidzba – unggul untuk iklim lembap; 6) Anggur Baikonur – tahan panas dan cocok untuk pekarangan; 7) Anggur Transfiguration – berbiji sedikit, manis dan besar; 8) Anggur Kadota – varietas hijau tahan penyakit ringan."
+  },
+  {
+    "id": "grape_climate",
+    "title": "Syarat Tumbuh Anggur",
+    "category": "Cultivation",
+    "region": "Indonesia",
+    "content": "Anggur membutuhkan sinar matahari penuh minimal 8–10 jam per hari. Suhu ideal 25–32°C, kelembapan 50–70%, dan pH tanah 6.0–7. Tanah gembur berdrainase baik sangat penting untuk mencegah penyakit akar. Musim kering panjang sangat membantu proses pembungaan dan pemanenan."
+  },
+  {
+    "id": "grape_cultivation",
+    "title": "Budidaya Anggur Lengkap",
+    "category": "Cultivation",
+    "region": "Indonesia",
+    "content": "Budidaya anggur di Indonesia mencakup beberapa tahap penting: 1) Persiapan lahan dengan pengolahan tanah dan pengapuran. 2) Penanaman bibit grafting atau cutting. 3) Pemasangan para-para atau trellis untuk rambatan. 4) Pemupukan NPK seimbang (N tinggi sebelum pembungaan, K tinggi menjelang pembesaran buah). 5) Pengairan dengan irigasi tetes untuk menghindari daun basah. 6) Pemangkasan formasi untuk membentuk kerangka. 7) Pemangkasan produksi untuk merangsang bunga dan buah. 8) Pengendalian hama terpadu. 9) Panen dilakukan 90–120 hari setelah pembungaan."
+  },
+  {
+    "id": "grape_propagation",
+    "title": "Teknik Perbanyakan Anggur",
+    "category": "Cultivation",
+    "region": "Indonesia",
+    "content": "Perbanyakan anggur dapat dilakukan dengan stek batang, grafting, okulasi, dan sambung pucuk. Di Indonesia, teknik stek dan grafting adalah yang paling umum. Stek diambil dari kayu matang dengan 3–4 mata tunas dan direndam ZPT sebelum ditanam. Grafting meningkatkan ketahanan terhadap penyakit akar dan mempercepat produksi."
+  },
+  {
+    "id": "grape_fertilization",
+    "title": "Pemupukan Tanaman Anggur",
+    "category": "Nutrition",
+    "region": "Indonesia",
+    "content": "Pemupukan anggur dilakukan berdasarkan fase pertumbuhan: 1) Vegetatif: N tinggi untuk pembentukan daun. 2) Pembungaan: N diturunkan, P dan K ditingkatkan. 3) Pembesaran buah: P dan K tinggi, Ca dan Mg ditambah untuk kualitas buah. 4) Menjelang panen: pupuk nitrogen dihentikan. Pupuk organik seperti kompos dan kotoran kambing sangat dianjurkan untuk menjaga struktur tanah."
+  },
+  {
+    "id": "grape_harvest",
+    "title": "Panen dan Pascapanen Anggur",
+    "category": "Cultivation",
+    "region": "Indonesia",
+    "content": "Panen dilakukan ketika tingkat kemanisan (°Brix) sudah mencapai 16–20 tergantung varietas. Buah dipanen dengan gunting tajam dan berhati-hati agar tidak memar. Pascapanen meliputi sortasi, grading, penyimpanan pada suhu 0–2°C, dan pengemasan dalam wadah berpori. Buah anggur sensitif terhadap etilen sehingga perlu dipisahkan dari buah lain."
+  }
+]

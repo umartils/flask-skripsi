@@ -1,0 +1,60 @@
+[
+  {
+    "id": "disease_downy_mildew",
+    "title": "Downy Mildew pada Anggur (Plasmopara viticola)",
+    "category": "Disease",
+    "region": "Indonesia",
+    "content": "Downy mildew disebabkan oleh oomycete Plasmopara viticola dan merupakan salah satu penyakit paling merusak pada kebun anggur di Indonesia, khususnya di wilayah dengan kelembapan tinggi seperti Jawa Barat, Sumatra Utara, dan Bali. Gejala awal berupa bercak kuning seperti minyak ('oil spot') pada permukaan daun. Pada kondisi lembap, bagian bawah daun menunjukkan lapisan putih seperti beludru yang merupakan sporangia patogen. Infeksi lanjut menyebabkan nekrosis daun, gugur daun, dan menurunnya kualitas buah. Siklus penyakit berkembang cepat pada suhu 18–25°C dan kelembapan di atas 85%. Pengendalian yang efektif meliputi pemangkasan untuk meningkatkan aliran udara, sanitasi daun terinfeksi, penggunaan irigasi tetes untuk mengurangi kebasahan daun, serta aplikasi fungisida berbahan aktif mankozeb, tembaga, fosetil-Al, atau dimetomorf sesuai rekomendasi setempat."
+  },
+  {
+    "id": "disease_powdery_mildew",
+    "title": "Powdery Mildew pada Anggur (Erysiphe necator)",
+    "category": "Disease",
+    "region": "Indonesia",
+    "content": "Powdery mildew merupakan penyakit penting pada anggur di Indonesia dan disebabkan oleh jamur Erysiphe necator. Penyakit ini berkembang baik pada kondisi kering–lembap dengan suhu 20–30°C, umum terjadi di Jawa Timur, NTB, dan NTT. Gejala utama berupa lapisan tepung putih pada permukaan daun, tunas, dan buah. Daun dapat mengalami distorsi, pertumbuhan tanaman terhambat, dan buah pecah sebelum matang. Remaja klorosis sering muncul pada daun yang masih muda. Pengendalian dilakukan melalui pemangkasan tunas yang terinfeksi, peningkatan sirkulasi udara, penggunaan sulfur (belerang), serta fungisida berbahan aktif penkonazol, tebukonazol, propikonazol, atau dinokap."
+  },
+  {
+    "id": "disease_black_rot",
+    "title": "Black Rot pada Anggur (Guignardia bidwellii)",
+    "category": "Disease",
+    "region": "Indonesia",
+    "content": "Black rot disebabkan oleh jamur Guignardia bidwellii dan sudah dilaporkan pada kebun anggur di Indonesia terutama selama musim hujan. Penyakit ini menyerang daun, batang, dan buah. Pada daun, gejala berupa bercak coklat melingkar dengan tepi hitam yang khas. Pada buah, infeksi menyebabkan buah mengering dan menghitam, membentuk struktur keras yang disebut mummy fruit. Jamur berkembang cepat pada kondisi lembap >90% dan suhu 25–30°C. Pengendalian mencakup pemangkasan daun terinfeksi, pembuangan buah busuk, pengaturan kanopi, serta fungisida berbahan mankozeb, miklobutanil, atau azoksistrobin."
+  },
+  {
+    "id": "disease_brown_spot",
+    "title": "Brown Spot pada Anggur (Cercospora spp.)",
+    "category": "Disease",
+    "region": "Indonesia",
+    "content": "Brown spot pada anggur di Indonesia terutama disebabkan oleh Cercospora spp. Penyakit ini umum ditemukan pada kebun anggur dataran rendah dengan curah hujan tinggi seperti di Jawa Barat dan Lampung. Gejala muncul sebagai bercak coklat kecil bulat pada daun dengan pusat lebih terang dan tepi lebih gelap. Infeksi berat dapat menyebabkan daun rontok lebih cepat, mengurangi fotosintesis, dan menurunkan produktivitas. Penyakit ini berkembang cepat pada suhu hangat (28–32°C) dan daun yang sering basah. Pengendalian meliputi sanitasi daun gugur, pengaturan jarak tanam, dan penggunaan fungisida berbahan klorotalonil atau difenokonazol."
+  },
+  {
+    "id": "disease_leaf_blight",
+    "title": "Leaf Blight pada Anggur (Pseudocercospora spp.)",
+    "category": "Disease",
+    "region": "Indonesia",
+    "content": "Leaf blight merupakan penyakit daun yang menyebabkan pengeringan daun secara bertahap, sering ditemukan di wilayah tropis lembap Indonesia. Penyakit ini disebabkan oleh Pseudocercospora spp. Gejala awal berupa bercak berbentuk tidak beraturan, berwarna coklat gelap hingga ungu, yang melebar seiring waktu. Bila tidak dikendalikan, bercak menyatu, daun mengering, dan rontok sebelum waktunya. Kondisi lembap dan temperatur 22–30°C sangat mendukung perkembangan penyakit. Pengendalian mencakup pemangkasan daun sakit, peningkatan ventilasi tajuk, serta aplikasi fungisida berbahan tembaga dan strobilurin."
+  },
+  {
+    "id": "disease_esca",
+    "title": "Esca / Black Measles pada Anggur",
+    "category": "Disease",
+    "region": "Indonesia",
+    "content": "Esca atau black measles adalah penyakit kompleks yang disebabkan oleh sejumlah jamur kayu seperti Phaeoacremonium spp. dan Fomitiporia spp. Laporan kasus di Indonesia terutama berasal dari kebun anggur berumur tua (>5 tahun). Gejala pada daun berupa pola klorosis dan nekrosis seperti harimau ('tiger stripe'). Pada buah, muncul bintik gelap memanjang ('black measles') yang menurunkan kualitas buah. Infeksi kronis merusak jaringan kayu dan menyebabkan kematian tanaman secara perlahan. Pengendalian lebih difokuskan pada pencegahan, pemangkasan kayu sakit, desinfeksi alat, dan aplikasi fungisida sistemik pada beberapa kasus."
+  },
+
+  {
+    "id": "cultivation_pruning",
+    "title": "Teknik Pemangkasan Anggur di Indonesia",
+    "category": "Cultivation",
+    "region": "Indonesia",
+    "content": "Pemangkasan adalah teknik penting dalam budidaya anggur untuk mengatur pertumbuhan tunas, meningkatkan produksi buah, serta mencegah penyakit yang sering terjadi akibat kanopi terlalu rimbun. Di Indonesia, metode paling umum adalah pemangkasan musim kering yang bertujuan merangsang pembungaan. Pemangkasan harus dilakukan dengan menyisakan 6–12 mata tunas tergantung varietas. Penanganan setelah pemangkasan meliputi pemberian nutrisi NPK, pengaturan irigasi, dan perlindungan terhadap spora jamur yang sering menyerang luka pemangkasan."
+  },
+
+  {
+    "id": "climate_requirement",
+    "title": "Kebutuhan Iklim Anggur di Indonesia",
+    "category": "Climate",
+    "region": "Indonesia",
+    "content": "Tanaman anggur membutuhkan intensitas cahaya tinggi dan periode kering–basah yang teratur. Di Indonesia, area ideal berada di ketinggian 0–800 mdpl dengan suhu 25–32°C. Kelembapan terlalu tinggi meningkatkan risiko downy mildew dan brown spot. Pengelolaan lingkungan seperti penanaman pada sistem para-para dan penggunaan irigasi tetes terbukti efektif mengurangi penyakit terkait kelembapan."
+  }
+]
